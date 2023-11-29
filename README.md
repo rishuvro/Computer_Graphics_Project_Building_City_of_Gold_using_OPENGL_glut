@@ -1,4 +1,3 @@
-# Building_City_of_Gold_using_OPENGL_glut
 
 # Building City of Gold using OpenGL and GLUT
 
